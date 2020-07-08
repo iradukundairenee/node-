@@ -1,0 +1,29 @@
+ul li{
+	cursor: pointer;
+
+} 
+ul li :hover{
+	background-color: white;
+
+}
+body{
+	background-color: blue;
+
+}
+
+#todo-table{
+	background-color: blueviolet;
+	height: 300px;
+	width: 350px;
+}
+
+input[type="text"] {
+	width: 250px;
+	height:40px;
+}
+button{
+ cursor: pointer;
+	height: 50px;
+	width: 80px;
+
+}
